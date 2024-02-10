@@ -8,7 +8,7 @@ The main technologies I used are HTML | SCSS | JS
 ### Installation
 1. Clone the repo:<br>
   ```sh
-  git clone https://github.com/Ssviatt/MyBike.git
+  git clone https://github.com/Ssviatt/WheelWorks.git
   ```
 
 2. Install NPM packages:<br>
